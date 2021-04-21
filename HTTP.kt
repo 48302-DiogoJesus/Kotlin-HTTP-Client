@@ -1,3 +1,5 @@
+// FOR THE JAR FILE GO TO https://github.com/j3z-repos/Kotlin-HTTP-Client/releases/tag/1
+
 import java.io.*
 import java.net.InetAddress
 import java.net.Socket
